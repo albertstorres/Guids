@@ -1,0 +1,14 @@
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.AssemblyInfoInputs.cache
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.AssemblyInfo.cs
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.csproj.CoreCompileInputs.cache
+C:\dev\dotnet\EstudoBase\Guids\bin\Debug\net8.0\Guids.exe
+C:\dev\dotnet\EstudoBase\Guids\bin\Debug\net8.0\Guids.deps.json
+C:\dev\dotnet\EstudoBase\Guids\bin\Debug\net8.0\Guids.runtimeconfig.json
+C:\dev\dotnet\EstudoBase\Guids\bin\Debug\net8.0\Guids.dll
+C:\dev\dotnet\EstudoBase\Guids\bin\Debug\net8.0\Guids.pdb
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.dll
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\refint\Guids.dll
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.pdb
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\Guids.genruntimeconfig.cache
+C:\dev\dotnet\EstudoBase\Guids\obj\Debug\net8.0\ref\Guids.dll
